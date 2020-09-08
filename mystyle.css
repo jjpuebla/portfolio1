@@ -1,0 +1,25 @@
+body {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.listp { 
+    list-style-position: inside; 
+    color: olivedrab;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    
+}
+
+#mainmenu {
+    background-image: linear-gradient(navy, white);
+    height: 40px;
+    font-size: large;
+    color: white;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a {
+    color: white;
+}
